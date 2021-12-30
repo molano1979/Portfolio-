@@ -12,7 +12,7 @@ section {
 }
 
 .hero {
-    background-color: #1c1d25;
+    background-color: steelblue;
     font-size: 40px;
     height: 100vh;
     color: white
@@ -58,11 +58,23 @@ p {
     justify-content: center;
 }
 .hero-text {
+    margin-bottom: 200px;
     margin-left: 80px
+    
 }
 
 button {
     background-color: coral;
     border-radius: 40px;
 
+}
+
+button:hover {
+    background-color: green;
+
+}
+
+button:active {
+    background-color: gray;
+    color: lightgray;
 }
