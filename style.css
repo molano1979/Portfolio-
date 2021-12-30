@@ -1,6 +1,6 @@
-body{
+body {
     font-family: 'Itim', cursive;
-font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif;
 
 }
 
@@ -34,7 +34,7 @@ ul {
     width: 500px;
     justify-content: space-around;
     font-size: 30px;
-    
+
 }
 
 li {
@@ -43,6 +43,11 @@ li {
 
 h2 {
     font-size: 90px;
+    margin: 0;
+}
+
+p {
+    margin: 0;
 }
 
 .hero-text {
@@ -52,6 +57,5 @@ h2 {
 button {
     background-color: coral;
     border-radius: 40px;
-    
-}
 
+}
