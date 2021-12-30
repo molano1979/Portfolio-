@@ -1,6 +1,5 @@
 body {
-    font-family: 'Itim', cursive;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Pontano Sans', sans-serif;
 
 }
 
@@ -12,7 +11,7 @@ section {
 }
 
 .hero {
-    background-color: rgb(65, 60, 60);
+    background-color: black;
     font-size: 40px;
     height: 100vh;
     color: white
@@ -71,7 +70,7 @@ button {
 }
 
 button:hover {
-    background-color: green;
+    background-color: lightskyblue;
 
 }
 
@@ -82,4 +81,8 @@ button:active {
 
 .socials {
     padding-bottom: 200px;
+}
+
+.logo {
+height: 300px;
 }
