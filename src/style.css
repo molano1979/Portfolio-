@@ -84,5 +84,9 @@ button:active {
 }
 
 .logo {
-height: 300px;
+    margin: 30px;
+    height: 300px;
+    padding-top: 30px;
+    
+
 }
