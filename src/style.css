@@ -6,11 +6,11 @@ body {
 
 section {
     background-color: white;
-    
+
 }
 
 .hero {
-    background-color: lightsteelblue;
+    background-color: darkolivegreen;
     font-size: 40px;
     height: 100vh;
     color: black
@@ -18,7 +18,10 @@ section {
 
 footer {
     height: 500px;
-    background-color: black;
+    background-color: rgb(179, 124, 23);
+    color: white;
+    text-align: center;
+
 }
 
 nav {
@@ -45,7 +48,7 @@ h2 {
 }
 
 h2 {
-font-size: 50px;
+    font-size: 50px;
 
 }
 
@@ -61,6 +64,7 @@ p {
     font-weight: 300;
 
 }
+
 .hero-area {
     display: flex;
     height: 100%;
@@ -76,17 +80,17 @@ p {
 
 button {
     border-radius: 40px;
-    background-color: lightgrey
+    background-color: orangered;
 }
 
 button:hover {
-    background-color: lightskyblue;
+    background-color: blue;
 
 }
 
 button:active {
-    background-color: gray;
-    color: lightgray;
+    background-color: green;
+    color: orangered;
 }
 
 .socials {
@@ -101,14 +105,16 @@ button:active {
 
 .social {
     margin-right: 20px;
-    
+
 }
+
 .sub-section {
     display: flex;
     justify-content: space-around;
     padding: 80px;
 
 }
+
 .sub-section-alternative {
     display: flex;
     flex-direction: column;
@@ -119,10 +125,11 @@ button:active {
 
 .headshot {
     width: 400px;
-    
+
 }
+
 .headshot-container {
-    display:flex;
+    display: flex;
     align-items: center;
 
 }
@@ -131,14 +138,29 @@ button:active {
     width: 300px;
     height: 500px;
     box-shadow: 5px 5px 20px grey;
+    margin: 10px;
 }
 
-.project-container{
+
+.project-container {
     display: flex;
     justify-content: space-around;
 }
 
 .project-image {
+    margin-top: 25px;
     width: 250px;
     border-radius: 150px;
+
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+
 }
