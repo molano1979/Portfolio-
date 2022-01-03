@@ -137,3 +137,8 @@ button:active {
     display: flex;
     justify-content: space-around;
 }
+
+.project-image {
+    width: 250px;
+    border-radius: 150px;
+}
