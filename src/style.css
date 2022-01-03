@@ -111,3 +111,8 @@ button:active {
     align-items: center;
 
 }
+
+.project-card {
+    width: 200px;
+    height: 500px;
+}
