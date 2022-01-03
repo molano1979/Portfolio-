@@ -10,7 +10,7 @@ section {
 }
 
 .hero {
-    background-color: darkolivegreen;
+    background-color: rgb(52, 70, 21);
     font-size: 40px;
     height: 100vh;
     color: black
@@ -21,6 +21,7 @@ footer {
     background-color: rgb(179, 124, 23);
     color: white;
     text-align: center;
+    padding: 80px;
 
 }
 
@@ -147,6 +148,12 @@ button:active {
     justify-content: space-around;
 }
 
+@media only screen and (max-width: 1000px) {
+    .project-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 .project-image {
     margin-top: 25px;
     width: 250px;
@@ -161,6 +168,6 @@ hr {
 }
 a{
     text-decoration: none;
-    color: whitesmoke;
+    color: rgb(43, 31, 31);
 
 }
