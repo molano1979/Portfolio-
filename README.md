@@ -1,14 +1,18 @@
 # Portfolio-
+
 # About Me
-Hi I’m Diana, I am a beginner, currently learning how to code. I don't have a coding backround and didn't know what coding was before I started the bootcamp.  A friend told me about coding and it sounded interesting to me. I did a few code excercises and decided it would be something I could apply my current skills to.   
 
-I switched careers from a Design oriented role in Jan 2020 and have loved my time in code. Over the past year I've been working for a small early stage startup where I've been able to rapidly grow and expand my knowledge. I love working with React, Typescript and/or Javascript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and truly believe that learning never stops.
+Hi I’m Diana, I am a beginner, currently learning how to code. I don't have a coding backround and didn't know exactly what coding was about before I started the bootcamp.  A friend told me about coding and it sounded interesting to me. I am also pursuing a change in career and have always had an interest in learning about web design espeically phone apps.
+I did a few code excercises and was attracted by the challenge of learning something completely new to me. Some of my strenghts is that I enjoy problem solving and attention to detail. After doing some research on line and getting more information on what a coder does, I realized that these are good strengths to have as a coder.
 
-📫 How to reach me: LinkedIn || Twitter || ryan.vaznis@gmail.com
-⚡ Fun fact: I was on tv for a little bit and I think it's still in rotation
-Deployed Projects
-Joberino - A job listing site that only shows listings from the past 7 days
-Wax Chromatics - A vinyl record collection site built in React w/a Rails API backend
-Text-Ray - A Javascript Spelling Bee game using a Rails API backend
-GTA Micro-manager - A small timer app to keep track of when to sell 'product' in GTA V: Online
-Awesome-Reads - A Ruby on Rails CRUD app that lets you write reviews on books
+Currently, my career is in healthcare in the area of administration. I have 18 plus years of experience working in hosptial and clinic settings and 8 of those last years have been in management.
+
+## Deployed Projects
+
+Currently, my only deployed project is my portfolio. When viewing my portfolio
+you will see my name, an avatar and links to a section about me, place holders for future projects, and how to contact me.
+When clicking on the links in the navigation tabs, the UI scrolls to the corresponding section.
+When resizing the page or if it's viewed on various screens and devices,
+there will be a responsive layout that adapts to the viewpor
+
+I had fun building this website and my goal is to make improvements by applying the materials that I'll be learning throughout this bootcamp.
