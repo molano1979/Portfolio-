@@ -20,3 +20,6 @@ I had fun building this website and my goal is to make improvements by applying 
 Website URL:[Portfolio](https://molano1979.github.io/Portfolio-/)
 
 ![Portfolio screenshot](./src/images/screenshot1.png)
+![Portfolio screenshot](./src/images/screenshot2.png)
+![Portfolio screenshot](./src/images/screenshot3.png)
+![Portfolio screenshot](./src/images/screenshot4.png)
