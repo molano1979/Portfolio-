@@ -17,7 +17,7 @@ there will be a responsive layout that adapts to the viewport.
 
 I had fun building this website and my goal is to make improvements by applying the material and tools that I'll be learning throughout this bootcamp.
 
-Website URL:[Portfolio](https://molano1979.github.io/Portfolio-/)
+Website URL:[Portfolio](https://molano1979.github.io/portfolio-diana-cady/)
 
 ![Portfolio screenshot](./src/images/screenshot1.png)
 ![Portfolio screenshot](./src/images/screenshot2.png)
