@@ -13,7 +13,7 @@
         rel="stylesheet">
 
 <body>
-     
+
     <section class="hero">
         <nav>
 
@@ -31,6 +31,8 @@
                 <h2>Diana Cady</h2>
                 <p>Full Stack Developer</p>
                 <button><a href="#about-me">About me</a></button>
+
+
             </div>
             <div class="socials">
 
@@ -74,17 +76,17 @@
             <div class="skill-card">
                 <p><b>Skills</b></p><br><br>
                 <p>FRONT END</p><br>
-                
-                    <li>HTMLS</li>
-                    <li>CSS</li>
-                    <li>JavaScript</li>
+
+                <li>HTMLS</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
                 </ul><br>
 
                 <p>SERVER</p><br>
-                
-                    <li>Node.JS</li>
+
+                <li>Node.JS</li>
                 </ul>
- <!-- end of skill cards -->
+                <!-- end of skill cards -->
     </section>
 
     <section class="sub-section-alternative" id="projects">
@@ -123,27 +125,51 @@
         </div>
     </section>
 
-         <!-- beginning of days until counter -->
-         <div class="until">
-            <div class="until__component">
-                <div class="until__numeric until__numeric--days">00</div>
-                <div class ="until__unit">Days</div>
-    
-                </div>
-    
-            </div>
-    
-        </div>
-    
-         <!-- end of days until counter -->
+
 
     <footer id="contact-me">
         <h2>Contact me</h2>
         <p>dmmolano@yahoo.com</p>
+
+        <!-- beginning of days until counter -->
+
     
+        <div class="until" id="myCountdown">
+            <div class ="until__component">
+                <div class="until__numeric until__numeric--days">00</div>
+                <div class="until__unit">Days</div>
+            </div>
+            
+            <div class ="until__component">
+                <div class="until__numeric until__numeric--hours">00</div>
+                <div class="until__unit">Hours</div>
+            </div>
+            
+            <div class ="until__component">
+                <div class="until__numeric until__numeric--minutes">00</div>
+                <div class="until__unit">Minutes</div>
+            </div>
+
+            <div class ="until__component">
+                <div class="until__numeric until__numeric--seconds">00</div>
+                <div class="until__unit">Seconds</div>
+            </div>
+            <div class="until__event"> Until Last Day of Class! <br> May/31/2022</div>
+
+        </div>
        
+
+              
+     <!-- end of days until counter -->
+
+       
+
     </footer>
 
+     
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.10.7/dayjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.10.7/plugin/duration.min.js"></script>
     <script src="src/main.js"></script>
 
 
