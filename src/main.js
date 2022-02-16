@@ -3,7 +3,7 @@ dayjs.extend(dayjs_plugin_duration);
 function activateCountdown(element, dateString){
 const targetDate = dayjs(dateString);
 
-element.querySelector(".until__event").textContent = `Until ${targetDate.format("D MMMM YYYY")}`
+element.querySelector(".until__event").textContent = `Until Last Day of Class! ${targetDate.format("MMMM DD YYYY")}`
 
 setInterval(() => {
 const now = dayjs();

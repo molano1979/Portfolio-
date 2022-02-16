@@ -163,6 +163,7 @@ button:active {
     height: 500px;
     box-shadow: 5px 5px 20px grey;
     margin: 10px;
+    padding: 20px;
 }
 
 
@@ -198,6 +199,11 @@ a{
 
 /*beginning of counter*/
 
+#myCountdown{
+    padding-bottom: 70px;
+}
+
+
 .until{
   margin: 25px;
     max-width: 500px;
@@ -208,6 +214,9 @@ a{
     background: blueviolet;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    color: whitesmoke;
+    font-size: larger;
+    
     
 }
 
@@ -234,4 +243,8 @@ a{
 
 .until__event{
     grid-column: span 4;
+}
+
+@media only screen and (max-width: 1000px) {
+
 }
