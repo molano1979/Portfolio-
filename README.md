@@ -9,7 +9,7 @@ Currently, my career is in healthcare in the area of administration. I have 18 p
 
 ### Deployed Projects
 
-My current deployed projects are my updated portfolio and the first class project we worked in as a team named. When viewing my portfolio
+My current deployed projects are my updated portfolio and the first class project we worked in as a team. When viewing my portfolio
 you will see my name, an avatar and links to a section about me, link to my first project and place holders for future projects, and how to contact me.
 Since the last time workingon this portfolio, I have learned CSS, JavaScript and currently Node.JS. I've added a countdown timer to the last day of bootcamp to upgrade my portfolio with my JavaScript skills.
 
