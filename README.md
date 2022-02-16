@@ -1,13 +1,13 @@
 # Portfolio-
 
-# About Me
+## About Me
 
 Hi I’m Diana, I am a beginner, currently learning how to code. I don't have a coding background and didn't know exactly what coding was about before I started the bootcamp.  A friend told me about coding and it sounded interesting to me. I am also pursuing a change in careers and have always had an interest in learning about web design, especially phone apps.
 I did a few code exercises and was drawn by the challenge of learning something completely new to me. Some of my strengths are that I enjoy problem solving and attention to detail. After doing some research on line and getting more information on what a coder does, I realized that these are good strengths to have as a coder.
 
 Currently, my career is in healthcare in the area of administration. I have 18 plus years of experience working in hospital and clinic settings and 8 of those last years have been in management.
 
-## Deployed Projects
+### Deployed Projects
 
 Currently, my only deployed project is my portfolio. When viewing my portfolio
 you will see my name, an avatar and links to a section about me, place holders for future projects, and how to contact me.
@@ -17,7 +17,7 @@ there will be a responsive layout that adapts to the viewport.
 
 I had fun building this website and my goal is to make improvements by applying the material and tools that I'll be learning throughout this bootcamp.
 
-Website URL:[Portfolio](https://molano1979.github.io/Portfolio-/)
+Website URL:[Portfolio](https://molano1979.github.io/portfolio-diana-cady/)
 
 ![Portfolio screenshot](./src/images/screenshot1.png)
 ![Portfolio screenshot](./src/images/screenshot2.png)

@@ -1,5 +1,6 @@
 body {
     font-family: 'Pontano Sans', sans-serif;
+    margin: 0px;
 
 }
 
@@ -11,13 +12,12 @@ section {
 
 .hero {
     background-color: rgb(52, 70, 21);
-    font-size: 40px;
     height: 100vh;
-    color: black
+    color: white;
+    font-size: 40px;
 }
 
 footer {
-    height: 500px;
     background-color: rgb(179, 124, 23);
     color: white;
     text-align: center;
@@ -44,7 +44,7 @@ li {
     text-decoration: none;
 }
 
-h2 {
+h1 {
     font-size: 90px;
     margin: 0;
 }
@@ -54,16 +54,21 @@ h2 {
 
 }
 
+
 p {
     margin: 0;
     font-size: 30px;
     font-weight: 300;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
 
 }
 
 .subtext {
     font-size: 15px;
     font-weight: 300;
+    text-align: center;
 
 }
 
@@ -106,7 +111,7 @@ button:active {
 }
 
 .social {
-    margin-right: 20px;
+    margin: 20px;
 
 }
 
@@ -135,6 +140,23 @@ button:active {
     align-items: center;
 
 }
+/*beginning of skill cards*/
+.skill-card {
+    width: 350px;
+    height: 350px;
+    box-shadow: 5px 5px 20px grey;
+    margin: 10px;
+    padding-left: 10px;
+    background-color: azure;
+}
+
+
+.skill-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+/*end of skill cards*/
 
 .project-card {
     width: 300px;
@@ -158,7 +180,7 @@ button:active {
 .project-image {
     margin-top: 25px;
     width: 250px;
-    border-radius: 150px;
+    border-radius: 125px;
 
 }
 
