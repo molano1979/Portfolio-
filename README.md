@@ -9,13 +9,13 @@ Currently, my career is in healthcare in the area of administration. I have 18 p
 
 ### Deployed Projects
 
-Currently, my only deployed project is my portfolio. When viewing my portfolio
-you will see my name, an avatar and links to a section about me, place holders for future projects, and how to contact me.
+My current deployed projects are my updated portfolio and the first class project we worked in as a team named. When viewing my portfolio
+you will see my name, an avatar and links to a section about me, link to my first project and place holders for future projects, and how to contact me.
+Since the last time workingon this portfolio, I have learned CSS, JavaScript and currently Node.JS. I've added a countdown timer to the last day of bootcamp to upgrade my portfolio with my JavaScript skills.
+
 When clicking on the links in the navigation tabs, the UI scrolls to the corresponding section.
 When resizing the page or if it's viewed on various screens and devices,
 there will be a responsive layout that adapts to the viewport.
-
-I had fun building this website and my goal is to make improvements by applying the material and tools that I'll be learning throughout this bootcamp.
 
 Website URL:[Portfolio](https://molano1979.github.io/portfolio-diana-cady/)
 
